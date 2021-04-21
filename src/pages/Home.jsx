@@ -68,7 +68,7 @@ const Home = () => {
         <Grid container justify="space-between" alignItems="stretch" spacing={3} className={classes.gridContainer}>
           <Grid item xs={12}>
             <Typography component="h1" variant="h2" align="center" style={{color: "white"}}>
-              Featured Posts
+              Featured Projects
             </Typography>
           </Grid>
           <Grid item xs={12}>
